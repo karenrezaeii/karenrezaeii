@@ -21,7 +21,7 @@
 
 | Project | Description | Tech | Demo |
 |---|---|---|---|
-| _Coming soon_ | New portfolio projects are being built. | — | — |
+| [Salesly — Sales Dashboard](https://github.com/karenrezaeii/sales-dashboard) | Bilingual (EN / FA RTL) admin dashboard: charts, advanced data table, product CRUD, dark mode. | React, TypeScript, Tailwind, Recharts, TanStack Table | [Live](https://sales-dashboard1-g8w3.vercel.app) |
 
 ---
 
